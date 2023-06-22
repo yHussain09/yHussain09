@@ -20,5 +20,4 @@ I’m currently working as a Senior Software Developer at [Contour Software](htt
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/yasir-hussain-62398554/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/yasir-hussain-62398554/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/y.hussain09#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/y.hussain09#gh-dark-mode-only)
+
