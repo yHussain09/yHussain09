@@ -1,7 +1,8 @@
 # Hi there, I'm Yasir Hussain and I'm a Senior FullStack Java Developer.
 
+Experienced with 8 years in developing highly scalable and reliable applications. Proficient in Spring Boot, Spring MVC, Spring Security, CI/CD, and DevOps technologies. Expertise in microservices and monolithic environments.
 
-Currently employed in [Contour Software](https://contour-software.com/) and working remotely as a Senior Software Developer in [Clinical Computing - Constellation Kidney Group UK](https://www.constellationkidney.com/). I’m a part of an agile development team where I’m in charge of developing highly scalable and reliable enterprise applications using Java, Spring Boot, Angular, React, Docker & Kubernetes in multiple environments including Microservices & Monolithic.
+Currently working remotely as a Senior Software Developer in [Clinical Computing - Constellation Kidney Group UK](https://www.constellationkidney.com/).
 
 ### Connect with me:
 
